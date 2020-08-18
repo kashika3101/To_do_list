@@ -1,3 +1,5 @@
+A React To-do-list made using ReactJS with implementation of concepts of props,state and ref for keys , lists and input forms.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
